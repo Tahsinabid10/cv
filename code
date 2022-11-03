@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Tahsin's Website</title>
+  </head>
+  <body>
+     <h1>Tahsin Abid Chowdhury</h1>
+     <img src="IMG_20220831_114430.jpg" alt="" height="280" width="220">
+     <p><em>Student Of <strong><a href="https://www.uiu.ac.bd/">United Internatinal University</a> </strong></em></p>
+     <img src="UIU-Logo-250.png" alt="" height="250" width="250">
+     <p><strong>I am studying Computer Science and Engineering.</strong></p>
+     <hr>
+     <h3><strong>Favorits</strong></h3>
+     <ul>
+
+       <li><strong>FOOTBALL</strong></li>
+        <img src="index.jpeg" alt="image of football" height="250" width="250">
+       <li><strong>LEO MESSI</strong></li>
+       <img src="Lionel-Messi-2018.jpg" alt="Image of The GOD" height="250" width="250">
+       <li><strong>MUSIC</strong></li>
+       <img src="Music-on-the-brain-What-our-taste-in-tunes-reveals.jpg" alt="Music" height="250" width="250">
+       <li><strong>MOVIES</strong></li>
+       <img src="1517845731.jpg" alt="movies" height="250" width="250S">
+     </ul>
+     <h3><strong>HOBBIES</strong></h3>
+     <ol>
+       <li><strong>TRAVELLING</strong></li>
+       <img src="20211018-Outdoor-adventure-travel-trends.png" alt="" height="250" width="250">
+       <li><strong>PHOTOGRAPHY</strong></li>
+       <img src="images.jpeg" alt="" height="250" width="250">
+       <li><strong>READING</strong></li>
+       <img src="reading-routine-tips.jpg" alt="" height="250" width="250">
+     </ol>
+     
+
+  </body>
+</html>
